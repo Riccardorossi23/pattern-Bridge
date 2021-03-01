@@ -1,0 +1,12 @@
+/Users/riccardorossi/Desktop/pattern Bridge/obj/Debug/netcoreapp3.1/pattern Bridge.csprojAssemblyReference.cache
+/Users/riccardorossi/Desktop/pattern Bridge/obj/Debug/netcoreapp3.1/pattern Bridge.AssemblyInfoInputs.cache
+/Users/riccardorossi/Desktop/pattern Bridge/obj/Debug/netcoreapp3.1/pattern Bridge.AssemblyInfo.cs
+/Users/riccardorossi/Desktop/pattern Bridge/obj/Debug/netcoreapp3.1/pattern Bridge.csproj.CoreCompileInputs.cache
+/Users/riccardorossi/Desktop/pattern Bridge/bin/Debug/netcoreapp3.1/pattern Bridge.deps.json
+/Users/riccardorossi/Desktop/pattern Bridge/bin/Debug/netcoreapp3.1/pattern Bridge.runtimeconfig.json
+/Users/riccardorossi/Desktop/pattern Bridge/bin/Debug/netcoreapp3.1/pattern Bridge.runtimeconfig.dev.json
+/Users/riccardorossi/Desktop/pattern Bridge/bin/Debug/netcoreapp3.1/pattern Bridge.dll
+/Users/riccardorossi/Desktop/pattern Bridge/bin/Debug/netcoreapp3.1/pattern Bridge.pdb
+/Users/riccardorossi/Desktop/pattern Bridge/obj/Debug/netcoreapp3.1/pattern Bridge.dll
+/Users/riccardorossi/Desktop/pattern Bridge/obj/Debug/netcoreapp3.1/pattern Bridge.pdb
+/Users/riccardorossi/Desktop/pattern Bridge/obj/Debug/netcoreapp3.1/pattern Bridge.genruntimeconfig.cache
